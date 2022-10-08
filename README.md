@@ -1,2 +1,1 @@
-*Emphasize*_emphasize_
-**strong** __Strong__
+' This is code'
